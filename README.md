@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m @GodM4dno
-- 👀 I’m interested in Roblox
-- 🌱 I’m currently learning The Beginning After The End
+- 👀 I’m interested in Roblox videos and livestream
+- 🌱 I’m currently learning Programation with Alura
 
 <!---
 GodM4dno/GodM4dno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
